@@ -12,3 +12,16 @@
 	<string.h>
 	"lib.h"
 
+1525927284 source:c:\users\syn\desktop\modelos-parcial-master\modelos-parcial-master\modelo 1er parcial\modelo parcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1525928974 c:\users\syn\desktop\modelos-parcial-master\modelos-parcial-master\modelo 1er parcial\modelo parcial\lib.h
+
+1525928974 source:c:\users\syn\desktop\modelos-parcial-master\modelos-parcial-master\modelo 1er parcial\modelo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+

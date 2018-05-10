@@ -180,7 +180,7 @@ int eGen_modificacion(eGenerica listado[] ,int limite, int id)
         i=eGen_buscarPorId(listado,limite,id);
         if(i==-2||i==-3)
         {
-            printf("El numero ingresado no pertenece a un Id en funcionamiento");
+            printf("El numero ingresado no pertenece a un id en funcionamiento");
         }
         else
         {
