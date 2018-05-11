@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1525561147 source:c:\users\s\desktop\facu\modelo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1525560973 c:\users\s\desktop\facu\modelo parcial\lib.h
+
+1525561147 source:c:\users\s\desktop\facu\modelo parcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1526008313 source:c:\users\syn\desktop\modelos-parcial-master\modelos-parcial-master\modelo 1er parcial\modelo parcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1525928974 c:\users\syn\desktop\modelos-parcial-master\modelos-parcial-master\modelo 1er parcial\modelo parcial\lib.h
+
+1525928974 source:c:\users\syn\desktop\modelos-parcial-master\modelos-parcial-master\modelo 1er parcial\modelo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
