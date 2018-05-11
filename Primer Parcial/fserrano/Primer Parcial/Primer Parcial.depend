@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526077734 source:c:\test\fserrano\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
+1526078400 c:\test\fserrano\primer parcial\lib.h
+
+1526076578 source:c:\test\fserrano\primer parcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
