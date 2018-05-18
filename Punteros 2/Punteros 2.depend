@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526673968 source:c:\test\fserrano\punteros 2\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526683857 source:c:\test\fserrano\ejercicio punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+
